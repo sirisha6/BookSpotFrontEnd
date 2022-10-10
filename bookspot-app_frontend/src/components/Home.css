@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	/* position: sticky; */
+	top: 0;
+	cursor: pointer;
+  /* background: "image.png"; */
+   background-color:rgb(173, 128, 88);
+   /* background:rgb(2, 69, 95); */
+}

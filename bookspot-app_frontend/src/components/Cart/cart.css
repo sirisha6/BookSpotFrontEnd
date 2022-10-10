@@ -1,0 +1,36 @@
+table{
+  
+    width:100%;
+    border:2px solid black;
+    /* height: 80%; */
+    align-content: center;
+    
+    
+}
+table , tr{
+    background-color:rgb(173, 128, 88);
+    border-collapse: collapse;
+    border:1px solid black;
+
+}
+.totalprice{
+    color:black;
+}
+.success{
+    color:white;
+    background-color:green;
+    padding: 1rem;
+}
+.minus{
+    padding: 0.7em;
+    /* background-color: red; */
+}
+.plus{
+    padding: 0.6rem;
+    /* background-color: green; */
+}
+.remove{
+    padding: 0.8rem;
+    color:white;
+    background-color: black;
+}

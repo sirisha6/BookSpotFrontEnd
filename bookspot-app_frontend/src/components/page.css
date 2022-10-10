@@ -1,0 +1,22 @@
+.all-products-contain {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
+}
+.buttons{
+    background-color: black;
+    padding: 0.2rem;
+    border-radius: 10%;
+    color: white;
+    
+}
+.btn{
+    color: white;
+    background-color: black;
+}

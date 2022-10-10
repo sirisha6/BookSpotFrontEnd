@@ -1,0 +1,27 @@
+.paid{
+    text-align: center;
+    background-color:rgb(173, 128, 88);
+    
+}
+.paidbdy{
+    /* background: url("https://th.bing.com/th/id/OIP.l-o-yIfJS9NfySbp7alIPAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"); */
+    width: 100%;
+}
+.card{
+    margin-top: 1%;
+}
+.register-form-element {
+    padding: 1rem;
+    /* border: 20rem;
+} */
+}
+.btn5{
+    padding: 1rem;
+}
+.foot{
+    margin-top:15%;
+    text-align: center;
+    background-color: black;
+    padding: 2rem;
+    color: white;
+  }

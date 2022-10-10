@@ -1,0 +1,77 @@
+.aboutbox{
+    background-color: white;
+    }
+    .line{
+        display: table-cell;
+        height: 100%;
+        left: 0;
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        display: table-cell;
+        vertical-align: middle;
+        /* width: 100%; */
+    }
+    .flex-container{
+    
+        display: flex;
+        /* background-color:rgb(173, 128, 88); */
+    }
+    .flex-container .about{
+        text-align: center;
+    }
+    .abouth{
+        display: flex;
+        padding: 10px;
+        margin: 15px;
+    }
+    .flex0{
+        padding: 20px;
+          margin: 20px;
+      }
+      .flex1a{
+          /* display: flex; */
+          background-image: url("https://img.freepik.com/premium-photo/opened-book-bible-background_112554-164.jpg?size=626&ext=jpg&ga=GA1.2.1929434843.1665074847"); 
+          padding: 40px;
+          margin: 20px;
+          flex : 30%;
+          height:300px;
+          /* justify-content: center; */
+          /* align-items: center; */
+          background-size: cover;
+          align-self: flex-end;
+          /* flex-direction: column; */
+          text-align: end;
+          border-radius: 5px;
+      }
+      .flex2a{
+          /* display: flex; */
+          /* background-image: url("https://img.freepik.com/free-vector/pet-store-animal-shelter-man-taking-puppy-from-cage-buying-adopting-dog-volunteers-helping-choose-homeless-animal-adoption_74855-8527.jpg?size=626&ext=jpg&ga=GA1.2.22133725.1664964496"); */
+          padding: 30px;
+          margin: 20px;
+          flex : 60%;
+          height:300px;
+          /* justify-content: center; */
+          /* align-items: center; */
+          background-size: cover;
+          align-self: flex-end;
+          /* flex-direction: column; */
+          text-align: end;
+          border-radius: 5px;
+          /* background-color: rgb(207, 211, 105); */
+    
+      }
+      .fpa{
+        text-align:left;
+      }
+        .about{
+            text-align: center;
+        }
+      .foot{
+        margin-top:10%;
+        text-align: center;
+        background-color: black;
+        padding: 2rem;
+        color: white;
+      }
